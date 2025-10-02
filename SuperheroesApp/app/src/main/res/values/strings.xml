@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuperheroesApp</string>
+    <string name="hero1">Nick Fury</string>
+    <string name="description1">Director of S.H.I.E.L.D.</string>
+    <string name="hero2">Captain Marvel</string>
+    <string name="description2">Former U.S. Air Force fighter pilot</string>
+    <string name="hero3">Iron Man</string>
+    <string name="description3">Genius, billionaire, playboy, philanthropist</string>
+    <string name="hero4">Captain America</string>
+    <string name="description4">Recipient of the Super-Soldier serum</string>
+    <string name="hero5">Thor</string>
+    <string name="description5">Crown prince of Asgard</string>
+    <string name="hero6">Hulk</string>
+    <string name="description6">Genius-level intellect</string>
+</resources>
