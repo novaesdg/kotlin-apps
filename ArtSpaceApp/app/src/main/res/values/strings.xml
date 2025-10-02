@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="impressao">Impressão</string>
+    <string name="o_grito">O Grito</string>
+    <string name="o_beijo">O Beijo</string>
+    <string name="_1503">1503</string>
+    <string name="_1907">1907</string>
+    <string name="_1893">1893</string>
+    <string name="_1872">1872</string>
+</resources>
