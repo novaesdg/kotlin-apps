@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifeCyclesApp</string>
+    <string name="chrono_title">Cronômetro (ViewModel)</string>
+    <string name="location_title">Localização (Lifecycle)</string>
+    <string name="location_unknown">Buscando localização...</string>
+    <string name="location_format">Lat: %1$.4f | Long: %2$.4f</string>
+</resources>
